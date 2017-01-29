@@ -1,0 +1,13 @@
+﻿body {
+    
+    background-color: silver;
+    background-image:url(/images/or_ocean.jpg);
+    background-size: cover;
+
+}
+
+h1 {
+    text-align: center;
+    color:gold;
+    font-size: 6em;
+}
